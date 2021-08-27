@@ -18,6 +18,12 @@
  
 <br>
 
+# Example
+![krypt_example1.png](https://cdn.discordapp.com/attachments/778283706388709376/880756385699229696/unknown.png)
+![krypt_example2.png](https://cdn.discordapp.com/attachments/778283706388709376/880756531958804501/unknown.png)
+ 
+<br>
+
 # Author
 - **Astraa**
     - [Github](https://github.com/AstraaDev)
